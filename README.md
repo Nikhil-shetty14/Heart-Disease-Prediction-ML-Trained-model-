@@ -1,4 +1,10 @@
 # 🫀 Heart Disease Prediction using Machine Learning
+<p align="center">
+  <img src="1.png"  />
+  <img src="2.png"  />
+  <img src="3.png"  />
+ 
+</p>
 
 A Machine Learning-based project that predicts the likelihood of heart disease using patient medical data. This system helps analyze health parameters and provides prediction results using trained ML and Deep Learning models.
 
